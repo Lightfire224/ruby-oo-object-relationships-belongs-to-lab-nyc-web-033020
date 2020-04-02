@@ -1,3 +1,5 @@
 class Author
-  @name = name
+  def initialize
+    @name = name
+  end
 end
